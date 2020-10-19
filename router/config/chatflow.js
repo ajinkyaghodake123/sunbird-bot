@@ -1,4 +1,4 @@
-var chatflow = {
+var chatflow =   { 
     step1: {
         messageKey: "START",
         responseVariable: "userIntent"
